@@ -1,4 +1,4 @@
-## Oiii eu sou o Rafael Sangali, iniciando na carreira em desenvolvimento =)
+## Opa, eu sou Rafael Sangali, iniciando na carreira em desenvolvimento =)
 <div align="center">
   <a href="https://github.com/rafaelsangali">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsangali&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;"src="https://uploaddeimagens.com.br/imagens/sk3-n08">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" src="https://uploaddeimagens.com.br/imagens/sk3-n08">
 </div>
   
   ##
