@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafael Sangali, iniciando na carreira em desenvolvimento =)
+## Oiii eu sou o Rafael Sangali, iniciando na carreira em desenvolvimento =)
 <div align="center">
   <a href="https://github.com/rafaelsangali">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsangali&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
