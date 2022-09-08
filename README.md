@@ -15,6 +15,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green&labelColor=0D1117)&nbsp; 
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=593D88&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=0D1117)&nbsp;
