@@ -4,7 +4,7 @@
 
 <div align="center" style="display: flex;"> 
     
-[![Rafaelsangali's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsangali&layout=compact&hide_border=true&title_color=6341A5&text_color=ffff&bg_color=0d1117)](https://github.com/rafaelsangali/github-readme-stats)
+[![Rafaelsangali's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsangali&layout=compact&hide_border=true&title_color=6341A5&text_color=ffff&bg_color=282a36)](https://github.com/rafaelsangali/github-readme-stats)
 
 </div>
 
@@ -12,27 +12,27 @@
 
 ### Main skills:
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green&labelColor=0D1117)&nbsp; 
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=593D88&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-282a36?style=for-the-badge&logo=html5&labelColor=282a36)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-282a36?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=282a36)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-282a36?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=282a36)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-282a36?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=282a36)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-282a36?style=for-the-badge&logo=node.js&logoColor=green&labelColor=282a36)&nbsp; 
+![React](https://img.shields.io/badge/-React-282a36?style=for-the-badge&logo=react&labelColor=282a36)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-282a36?style=for-the-badge&logo=tailwindcss&labelColor=282a36)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-282a36?style=for-the-badge&logo=redux&logoColor=593D88&labelColor=282a36)&nbsp;
  
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=0D1117)&nbsp;
-![Trello](https://img.shields.io/badge/-trello-0D1117?style=for-the-badge&logo=trello&logoColor=blue&labelColor=0D1117)&nbsp;
-![Notion](https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&logoColor=white&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=orange&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-282a36?style=for-the-badge&logo=visual-studio-code&logoColor=blue&labelColor=282a36)&nbsp;
+![Trello](https://img.shields.io/badge/-trello-282a36?style=for-the-badge&logo=trello&logoColor=blue&labelColor=282a36)&nbsp;
+![Notion](https://img.shields.io/badge/-notion-282a36?style=for-the-badge&logo=notion&logoColor=white&labelColor=282a36)&nbsp;
+![Git](https://img.shields.io/badge/-Git-282a36?style=for-the-badge&logo=git&labelColor=282a36)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-282a36?style=for-the-badge&logo=linux&logoColor=orange&labelColor=282a36)&nbsp;
 
 ### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Styled Components](https://img.shields.io/badge/-styled%20components-0D1117?style=for-the-badge&logo=styled-components&logoColor=yellow&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Graphql](https://img.shields.io/badge/-graphql-0D1117?style=for-the-badge&logo=graphql&logoColor=pink&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-282a36?style=for-the-badge&logo=bootstrap&labelColor=282a36)&nbsp;
+![Styled Components](https://img.shields.io/badge/-styled%20components-282a36?style=for-the-badge&logo=styled-components&logoColor=yellow&labelColor=282a36)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-282a36?style=for-the-badge&logo=mysql&labelColor=282a36)&nbsp;
+![Graphql](https://img.shields.io/badge/-graphql-282a36?style=for-the-badge&logo=graphql&logoColor=pink&labelColor=282a36)&nbsp;
   
   ##
  
