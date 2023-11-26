@@ -1,13 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6341A5&height=180&section=header&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F704D&height=180&section=header&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6341A5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Rafael+Sangali;I'm+a+Front-End+Developer;Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3F704D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Rafael+Sangali;I'm+a+Front-End+Developer;Welcome!+:%29)
 
 <div align="center" style="display: flex;"> 
     
-[![Rafaelsangali's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsangali&layout=compact&hide_border=true&title_color=6341A5&text_color=ffff&bg_color=282a36)](https://github.com/rafaelsangali/github-readme-stats)
+[![Rafaelsangali's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsangali&layout=compact&hide_border=true&title_color=3F704D&text_color=ffff&bg_color=282a36)](https://github.com/rafaelsangali/github-readme-stats)
 
 </div>
 
+ #3F704D
 
 
 ### Main skills:
@@ -41,4 +42,4 @@
   <a href="https://www.linkedin.com/in/rafael-sangali-0b2675229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rafaelsangali@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6341A5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F704D&height=120&section=footer"/>
