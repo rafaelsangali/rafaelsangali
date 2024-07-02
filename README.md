@@ -36,7 +36,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-282a36?style=for-the-badge&logo=tailwindcss&labelColor=282a36)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-282a36?style=for-the-badge&logo=redux&logoColor=593D88&labelColor=282a36)&nbsp;
 ![TypeORM](https://img.shields.io/badge/-TypeORM-282a36?style=for-the-badge&logo=typeorm&labelColor=282a36)&nbsp;
-![Socket.io](https://img.shields.io/badge/-TypeORM-282a36?style=for-the-badge&logo=socket.io&labelColor=282a36)&nbsp;
+![Socket.io](https://img.shields.io/badge/-Socket.io-282a36?style=for-the-badge&logo=socket.io&labelColor=282a36)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-282a36?style=for-the-badge&logo=docker&labelColor=282a36)&nbsp;
 
 
